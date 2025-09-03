@@ -1,0 +1,14 @@
+deps
+- starship
+- antidote for zsh
+- zoxide
+- kitty
+- zsh
+- sway
+- nvim
+- tmux
+- fuzzel
+- exa
+- ripgrep
+- eww
+- fzf
