@@ -16,3 +16,6 @@
 [submodule ".config/tmux"]
 	path = .config/tmux
 	url = git@github.com:20Finger-Squared/tmux.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/20Finger-Squared/zsh
