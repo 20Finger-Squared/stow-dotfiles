@@ -7,3 +7,12 @@
 [submodule ".config/eww"]
 	path = .config/eww
 	url = git@github.com:20Finger-Squared/eww.git
+[submodule ".config/fuzzel"]
+	path = .config/fuzzel
+	url = git@github.com:20Finger-Squared/fuzzel.git
+[submodule ".config/kitty"]
+	path = .config/kitty
+	url = git@github.com:20Finger-Squared/kitty.git
+[submodule ".config/tmux"]
+	path = .config/tmux
+	url = git@github.com:20Finger-Squared/tmux.git
